@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheLordcy
+- 👋 Hi, I’m @TheLordIcy
 - 👀 I’m interested in Computer Science, Cyber Security, Web Dev, and GameDev
 - 🌱 I’m currently learning WebDev
 - 📫 How to reach me Contact me on my Instagram profile @thelord.ice
